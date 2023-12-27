@@ -1,0 +1,8 @@
+Class Launch{
+
+public  static void m1(){
+}
+
+
+
+}
