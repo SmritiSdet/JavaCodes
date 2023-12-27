@@ -1,0 +1,17 @@
+Class Adding{
+
+public static int m2(){
+ int sum=0;
+sum=sum+1;
+return sum
+}
+
+public static int m3(){
+ int sum=788;
+sum=sum+1;
+return sum
+}
+
+
+
+}
