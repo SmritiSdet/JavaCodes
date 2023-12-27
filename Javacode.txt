@@ -11,6 +11,11 @@ public static int m3(){
 sum=sum+1;
 return sum
 }
+public static int m4(){
+ int sum=1000;
+sum=sum/5;
+return sum
+}
 
 
 
