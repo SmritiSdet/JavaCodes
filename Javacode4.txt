@@ -5,6 +5,10 @@ public static int sub(){
 sum=sum-1;
 return sum
 }
+public static int drive(){
+ String car=new String();
+car.run();
+}
 
 
 
